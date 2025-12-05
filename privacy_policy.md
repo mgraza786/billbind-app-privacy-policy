@@ -1,7 +1,7 @@
 Privacy Policy for BillBind
 Last updated: December 01, 2025
 
-BillBind ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by BillBind.
+BillBind is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by BillBind.
 
 1. Information We Collect
 A. SMS Messages (Financial Transactions)
